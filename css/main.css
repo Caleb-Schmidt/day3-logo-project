@@ -1,0 +1,18 @@
+.first-row{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 25px;
+    padding: 10px;
+}
+
+.second-row{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+img{
+    width: 150px;
+    height: auto;
+    border: 1px solid grey;
+}
